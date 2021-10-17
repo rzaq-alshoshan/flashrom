@@ -627,6 +627,7 @@
  * third byte is a dummy byte.
  */
 #define SANYO_ID		0x62	/* Sanyo */
+#define SANYO_LE25FS406     0x1613
 #define SANYO_LE25FW203A	0x1600
 #define SANYO_LE25FW403A	0x1100
 #define SANYO_LE25FW106		0x15
